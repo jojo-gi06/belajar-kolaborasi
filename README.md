@@ -6,6 +6,8 @@
 *ini adalah commit 3* <br>
 *dan seterusnya*
 
+<p> nah, setelah kita selesai melakukan commit, kita bakalan melakukan pull request
+
 
 
 
